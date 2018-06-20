@@ -1,0 +1,24 @@
+{
+  "name": "hearsay-snippets",
+  "version": "1.0.0",
+  "description": "A collection of scripts to help development on various Hearsay projects.",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "get-sites": "node node/get-sites.js",
+    "get-site-profile": "node node/get-site-profile.js",
+    "get-url": "node node/get-url.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mherczeg-hearsay/hearsay-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mherczeg-hearsay/hearsay-snippets/issues"
+  },
+  "homepage": "https://github.com/mherczeg-hearsay/hearsay-snippets#readme"
+}
